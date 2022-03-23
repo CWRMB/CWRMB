@@ -1,5 +1,5 @@
 # 👋Hi, I'm Michael.
-I am currently an undergraduate student at Temple University studying computer science. I have interests in all branches of software development and cool Internet of Things(IoT) projects.🖥🖱
+I am currently an undergraduate student at Temple University studying computer science. I have interests in all branches of software development and Internet of Things(IoT) projects.🖥🖱
 
 
 
