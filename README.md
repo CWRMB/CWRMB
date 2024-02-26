@@ -1,5 +1,7 @@
-# 👋Hi, I'm Michael. LinkedIn: https://www.linkedin.com/in/michael-bennett-6665841b7/
+# 👋Hi, I'm Michael.
 I am passionate software engineer interested in all branches of software development and Internet of Things(IoT) projects 🖥🖱. I thrive on challenges and love diving into cutting-edge technologies.
+
+LinkedIn: https://www.linkedin.com/in/michael-bennett-6665841b7/
 
 ## 💻 What I enjoy doing
 - Developing robust solutions for complex problems
