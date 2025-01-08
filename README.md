@@ -23,7 +23,8 @@ The audio book app is simply a experiment for building mobile apps. This project
   Pausing, Rewinding, Saving, Phone rotations, Book cover visuals, recycling lists of book data, etc.
 Repo: https://github.com/CWRMB/AudioBookPlayer 
 
+## 📃Research Papers
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89660661/152409694-3329d642-2f2b-4911-9bec-cf99a591f5e6.png" width=25% height=25%>
+VIDAR Research Report (https://github.com/user-attachments/files/18352394/Copy.of.VIDAR.Research.Report.pdf)
 <div>
 
